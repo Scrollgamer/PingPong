@@ -11,7 +11,7 @@
 <?import javafx.scene.control.Label?>
 
 <Group fx:id="theGroup" focusTraversable="true" onKeyReleased="#keyReleasedHandler" xmlns="http://javafx.com/javafx/8"
-       xmlns:fx="http://javafx.com/fxml/1" fx:controller="pong.PingPongController">
+       xmlns:fx="http://javafx.com/fxml/1" fx:controller="pong.PingPongController_v1">
    <children>
       <Button />
       <Rectangle fx:id="table" fill="#31b287" height="250" stroke="BLACK" strokeType="INSIDE" width="400" />
